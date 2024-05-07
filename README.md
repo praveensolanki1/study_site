@@ -1,6 +1,4 @@
 # study_site
-# Project Name
-
 ## Description
 This Django project is designed to provide easy user access for multilingual content.
 
